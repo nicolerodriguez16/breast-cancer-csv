@@ -1,6 +1,7 @@
 # Brief Data Visualization Overview
 
 Visual Representation Overview
+
 FIGURE 1
 This figure demonstrates the relationship between “area_worst” and “symmetry_worst”. There is not a strong linear relationship present as the data points are clustered to the bottom left of the plot, indicating a weak relationship with a few outliers. The graph illustrates the largest observed area and the worst observed symmetry in the image.
 
